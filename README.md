@@ -1,1 +1,3 @@
-# -AI-![image](https://github.com/user-attachments/assets/6636f67e-0f98-44d0-85a0-b4a627a23d40)
+https://github.com/user-attachments/assets/52c36846-3ce2-4458-ab50-b2947e568e68
+
+手書き数字認識
