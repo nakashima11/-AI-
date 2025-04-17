@@ -42,9 +42,9 @@
 
 ## 参考文献
 
-https://qiita.com/DeepTama/items/379cac9a73c2aed7a082
-https://qiita.com/dolce_itf/items/be85244a31654d1d56ef
-https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+1. https://qiita.com/DeepTama/items/379cac9a73c2aed7a082
+2. https://qiita.com/dolce_itf/items/be85244a31654d1d56ef
+3. https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 
 
