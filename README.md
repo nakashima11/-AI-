@@ -38,7 +38,13 @@
 
 1. 3つの畳み込み層（バッチ正規化、ReLU活性化、MaxPoolingを含む）
 2. 3層のLSTM（隠れ層サイズ256）
-3. 2つの全結合層 
+3. 2つの全結合層
+
+## 参考文献
+https://qiita.com/DeepTama/items/379cac9a73c2aed7a082
+https://qiita.com/dolce_itf/items/be85244a31654d1d56ef
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 
 https://github.com/user-attachments/assets/52c36846-3ce2-4458-ab50-b2947e568e68
 
